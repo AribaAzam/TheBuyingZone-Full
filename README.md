@@ -8,4 +8,5 @@ Functionalities include:
   4. Billing module
   5. Reporting and Analytics including charts and graph using SQL server Views
   6. Implemented Stored Procedures and Triggers
+  7. Searching functionality
     
